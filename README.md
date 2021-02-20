@@ -21,6 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.:
+After realizing my mistakes the first time, I was able to complete this homework a lot easier!
 
 ---
 
@@ -44,5 +45,6 @@ Describe any challenges encountered while building the app.:
 <img src="file.gif" width=250><br>
 
 ### Notes
+Describe any challenges encountered while building the app.:
 Had a lot of bug errors but with the help of two TA's I was able to get a lot of the errors down. 
 Most of the errors came from inputting the wrong title names in wrong places, but I was satisfied to finally finish!
